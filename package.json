@@ -1,0 +1,32 @@
+{
+  "name": "task-management",
+  "version": "1.0.0",
+  "description": "Task Management App",
+  "main": "index.js",
+  "dependencies": {
+    "mongodb": "^3.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atulk101/Task-management.git"
+  },
+  "keywords": [
+    "Task",
+    "management",
+    "app",
+    "using",
+    "Node",
+    "and",
+    "MongoDB"
+  ],
+  "author": "atul k verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atulk101/Task-management/issues"
+  },
+  "homepage": "https://github.com/atulk101/Task-management#readme"
+}
